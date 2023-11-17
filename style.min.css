@@ -318,35 +318,35 @@ a {
 }
 
 .top-visual li:nth-child(1) {
-    background-image: url(../img/bgphoto/1.jpg)
+    background-image: url(https://i.imgur.com/tqg0ApU.jpg)
 }
 
 .top-visual li:nth-child(2) {
-    background-image: url(../img/bgphoto/2.jpg);
+    background-image: url(https://i.imgur.com/O6JhtGm.jpg);
     -webkit-animation-delay: 6s;
     animation-delay: 6s
 }
 
 .top-visual li:nth-child(3) {
-    background-image: url(../img/bgphoto/3.jpg);
+    background-image: url(https://i.imgur.com/mb2uESi.jpg);
     -webkit-animation-delay: 12s;
     animation-delay: 12s
 }
 
 .top-visual li:nth-child(4) {
-    background-image: url(../img/bgphoto/1.jpg);
+    background-image: url(https://i.imgur.com/tqg0ApU.jpg);
     -webkit-animation-delay: 18s;
     animation-delay: 18s
 }
 
 .top-visual li:nth-child(5) {
-    background-image: url(../img/bgphoto/2.jpg);
+    background-image: url(https://i.imgur.com/O6JhtGm.jpg);
     -webkit-animation-delay: 24s;
     animation-delay: 24s
 }
 
 .top-visual li:nth-child(6) {
-    background-image: url(../img/bgphoto/3.jpg);
+    background-image: url(https://i.imgur.com/mb2uESi.jpg);
     -webkit-animation-delay: 30s;
     animation-delay: 30s
 }
@@ -362,7 +362,7 @@ a {
 
 .top-visual:after {
     content: "";
-    background: transparent url(../img/bgphoto/pattern.png) repeat top left
+    background: transparent url(https://i.imgur.com/3FgjoVN.png) repeat top left
 }
 
 @-webkit-keyframes imageAnimation {
@@ -3309,35 +3309,35 @@ li.fancybox-thumbs-loading {
 }
 
 .top-visual li:nth-child(1) {
-    background-image: url(../img/bgphoto/1.jpg)
+    background-image: url([img]https://i.imgur.com/tqg0ApU.jpg[/img])
 }
 
 .top-visual li:nth-child(2) {
-    background-image: url(../img/bgphoto/2.jpg);
+    background-image: url([img]https://i.imgur.com/O6JhtGm.jpg[/img]);
     -webkit-animation-delay: 6s;
     animation-delay: 6s
 }
 
 .top-visual li:nth-child(3) {
-    background-image: url(../img/bgphoto/3.jpg);
+    background-image: url([img]https://i.imgur.com/mb2uESi.jpg[/img]);
     -webkit-animation-delay: 12s;
     animation-delay: 12s
 }
 
 .top-visual li:nth-child(4) {
-    background-image: url(../img/bgphoto/1.jpg);
+    background-image: url([img]https://i.imgur.com/tqg0ApU.jpg[/img]);
     -webkit-animation-delay: 18s;
     animation-delay: 18s
 }
 
 .top-visual li:nth-child(5) {
-    background-image: url(../img/bgphoto/2.jpg);
+    background-image: url([img]https://i.imgur.com/O6JhtGm.jpg[/img]);
     -webkit-animation-delay: 24s;
     animation-delay: 24s
 }
 
 .top-visual li:nth-child(6) {
-    background-image: url(../img/bgphoto/3.jpg);
+    background-image: url([img]https://i.imgur.com/mb2uESi.jpg[/img]);
     -webkit-animation-delay: 30s;
     animation-delay: 30s
 }
@@ -3353,7 +3353,7 @@ li.fancybox-thumbs-loading {
 
 .top-visual:after {
     content: "";
-    background: transparent url(../img/bgphoto/pattern.png) repeat top left
+    background: transparent url(https://i.imgur.com/3FgjoVN.png) repeat top left
 }
 
 @-webkit-keyframes imageAnimation {
